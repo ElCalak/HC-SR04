@@ -1,8 +1,10 @@
 # HC-SR04
 Sin librerías extra, llegas lo conectas, lo corres y listo
 
-En la universidad me pidieron hacer un medidor de volumen mediante un HC-SR04 y al momento de buscar informacion
+En la universidad me pidieron hacer un medidor de nivel mediante un HC-SR04 y al momento de buscar informacion
 encontre mucha basura, y mediante un poco de estudio logre conectarlo por mi cuenta sin dañar mi microcontrolador
+
+OJO: Este no es el medidor de nivel, aun hace falta hacer unos calculos para la implementacion de esto ulitmo
 
 En mi caso use el raspberry pi pico
 
